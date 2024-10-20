@@ -1,6 +1,6 @@
 # LookerStudio
-    Aprender a fazer um dashboard na plataforma Google Data Studio (Looker Studio), utilizando o lookerstudio, com interações dos dados.
 
+Aprender a fazer um dashboard na plataforma Google Data Studio (Looker Studio), utilizando o lookerstudio, com interações dos dados.
 
 
 Foi criado esta página: https://lookerstudio.google.com/reporting/c43011f3-582b-4a52-95ae-36c21166b11c/page/p_ia34dlkuld

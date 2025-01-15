@@ -8,3 +8,6 @@ Foi criado esta página: https://lookerstudio.google.com/reporting/c43011f3-582b
 Para o celular: https://lookerstudio.google.com/u/0/reporting/93334911-2ae6-4055-8040-cf780a1b4083/page/HXlDE
 
 para visualizar no computador, o modo do celular, usar o comando no firefox ctrl + shift + m
+
+
+Segunda página do LookerStudio: https://lookerstudio.google.com/reporting/839f67bf-2316-481e-9455-98466cfb1b9f/page/emVXE?pli=1
